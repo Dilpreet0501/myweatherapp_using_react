@@ -1,0 +1,22 @@
+.hov{
+    display: none;
+}
+.btn:hover .ch {
+    display:none;
+   }
+ .btn:hover .hov{
+   display:inline ;
+ }  
+ .fa fa-plus add-btn{
+    position: absolute;
+ }
+ .eit{
+  width: 5rem;
+  height: 2rem;
+  padding-top:1% ;
+  padding-bottom:1% ;
+  border-radius: 0.5px ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ }
